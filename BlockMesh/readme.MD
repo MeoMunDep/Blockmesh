@@ -55,7 +55,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 2. `emails.txt` 🗂️ -
+### 2. `emails.txt` 🗂️ - Your emails address.
 
 ```txt
 xxx@gmail.com
@@ -63,7 +63,7 @@ xxx@gmail.com
 xxx@gmail.com
 ```
 
-### 2.1. `passwprdss.txt` 🗂️ -
+### 2.1. `passwordss.txt` 🗂️ - Your passwords's emails.
 
 ```txt
 xxx...
