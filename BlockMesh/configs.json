@@ -5,8 +5,5 @@
   "proxyRotationInterval": 2,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 100,
-  "doTasks": true,
-  "playGames": true,
-  "referralCode": ""
+  "howManyAccountsRunInOneTime": 100
 }
