@@ -81,7 +81,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd blockmesh && node bot
+node bot
 pause
 goto MENU
 
