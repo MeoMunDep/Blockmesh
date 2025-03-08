@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link](https://app.blockmesh.xyz/register?invite_code=5dfbe92a-8f3f-40ec-a5d6-6d343491fd8a)
+> Help me with your referral [Link](https://app.blockmesh.xyz/register?invite_code=meomundep)
 
 ## 🚀 Getting Started
 
