@@ -33,7 +33,6 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": true,
   "proxyRotationInterval": 2,
@@ -71,7 +70,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install user-agents axios colors https-proxy-agent socks-proxy-agent crypto-js ws uuid 
+npm install user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent crypto-js ws uuid axios-cookiejar-support @solana/web3.js
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 

