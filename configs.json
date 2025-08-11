@@ -1,5 +1,4 @@
 {
-  "timeZone": "en-US",
   "rotateProxy": true,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
@@ -7,3 +6,4 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100
 }
+
