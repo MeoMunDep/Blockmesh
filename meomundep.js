@@ -1,1 +1,1 @@
-console.log(`Script broken for now, just wait another update, maybe in next live?`)
+console.log(`Say goodbye to this game since the extension is kinda sus, i guess?`)
